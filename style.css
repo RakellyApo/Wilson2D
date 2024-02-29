@@ -9,8 +9,8 @@
     background-color:var(--cor-cabecalho1);
     color:var(--cor-fonte);
     display: flex;
-    justify-content:space-around
-    aling-item: center;
+    justify-content:space-around;
+    align-items:center;
     padding: 24px 0;
 
 
