@@ -9,7 +9,8 @@
     background-color:var(--cor-cabecalho1);
     color:var(--cor-fonte);
     display: flex;
-    
+    justify-content: space-around;
+
 }
 .imagem-cabecalho{
     width: 10%;
