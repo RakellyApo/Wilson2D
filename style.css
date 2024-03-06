@@ -31,5 +31,7 @@
     width: 25;
 }
 .escola{
-    background-image:linear-gradient(#FF0000, #FFFFFF)
+    background-image:linear-gradient(#FF0000, #FFFFFF);
+    display: flex; 
+
 }
