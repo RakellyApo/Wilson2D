@@ -3,7 +3,7 @@
     padding: 0%;
 }
 :root{
---cor-cabecalho1:#000000;
+--cor-cabecalho1:#ED0000;
 --cor-fonte:#FFFFFF;
 --cor-fundo1:#ED0000;
 --cor-fundo2:#FFFFFF;
@@ -31,7 +31,8 @@
     width: 25;
 }
 .escola{
-    background-image:linear-gradient(#FF0000, #FFFFFF);
-    display: flex; 
+    background-image:linear-gradient,(#ED0000, #FFFFFF);
+    display:flex
+
 
 }
