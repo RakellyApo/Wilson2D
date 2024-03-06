@@ -27,6 +27,9 @@
     margin: 0 16px;
     font-size: 24px;
 }
-.(
-    w
-)
+.escola.imagem{
+    width: 25;
+}
+.ecola{
+    background-image:linear-gradient (#ED0000, #FFFFFF);
+}
