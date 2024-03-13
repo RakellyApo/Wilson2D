@@ -5,8 +5,8 @@
 :root{
 --cor-cabecalho1:#ED0000;
 --cor-fonte:#000000;
---cor-fundo1:#ED0000;
---cor-fundo2:#FFFFFF;
+--cor-fundo1:#A2FFFF;
+--cor-fundo2:#004343;
 --cor-cabecalho2:#FFFFFF;
 }
 .cabecalho{
@@ -31,7 +31,7 @@
     width: 25%;
 }
 .escola{
-    background-image:linear-gradient,(#ED0000, #FFFFFF);
+    background-image:linear-gradient,(#A2FFFF; #004343)
     color:var(--cor-fonte)
     display: flex;
     align-items: center;
