@@ -32,9 +32,16 @@
     width: 25%;
 }
 .escola{
-    background-image:linear-gradient,(#A2FFFF #004343)
-    color:var(--cor-fonte)
+    background-image:linear-gradient,(#A2FFFF, #004343);
+    color:var(--cor-fonte);
     display: flex;
     align-items: center;
+    padding: 24px 0;
+    padding-left: 15%;
+}
+.ecola-driv-conteudo{
+    width: 35%;
+}
+.escola-titulo{
     padding: 24px 0;
 }
