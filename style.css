@@ -7,7 +7,8 @@
 --cor-fonte:#000000;
 --cor-fundo1:#A2FFFF;
 --cor-fundo2:#004343;
---cor-cabecalho2:#FFFFFF;
+--cor-cabecalho2:#004343;
+
 }
 .cabecalho{
     background-color:var(--cor-cabecalho1);
