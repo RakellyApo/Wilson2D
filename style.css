@@ -11,7 +11,7 @@
 }
 .cabecalho{
     background-color:var(--cor-cabecalho1);
-    color:var(--cor-fonte);
+    color:var(--cor-cabecalho1);
     display: flex;
     justify-content:space-around;
     align-items:center;
