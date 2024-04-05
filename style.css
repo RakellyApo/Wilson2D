@@ -33,7 +33,7 @@
 }
 .escola{
     background-color:var(--cor-cabecalho1);
-    color:var(--cor-fonte2);
+    color:var(--cor-fonte1);
     display: flex;
     align-items: center;
     padding: 24px 0;
