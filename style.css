@@ -3,11 +3,10 @@
     padding: 0%;
 }
 :root{
---cor-cabecalho1:#A2FFFF;
+--cor-cabecalho1:#99073C;
 --cor-fonte:#000000;
---cor-fundo1:#A2FFFF;
---cor-fundo2:#004343;
---cor-cabecalho2:#004343;
+--cor-fundo1:#99073C;
+--cor-fundo2:#99073C;
 
 }
 .cabecalho{
