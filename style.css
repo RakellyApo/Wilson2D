@@ -4,7 +4,8 @@
 }
 :root{
 --cor-cabecalho1:#99073C;
---cor-fonte:#ffffff;
+--cor-fonte1:#ffffff;
+--cor-fonte2:#000000;
 --cor-fundo1:#99073C;
 --cor-fundo2:#99073C;
 
@@ -32,7 +33,7 @@
 }
 .escola{
     background-image:linear-gradient,(#99073C #99073c);
-    color:var(--cor-fonte);
+    color:var(--cor-fonte2);
     display: flex;
     align-items: center;
     padding: 24px 0;
